@@ -1,4 +1,6 @@
 # aiken-play-example
+<img width="1231" alt="Screenshot 2024-11-01 at 5 10 51 AM" src="https://github.com/user-attachments/assets/8615a075-1228-4e81-8278-db3ddf5bc632">
+<img width="767" alt="Screenshot 2024-11-01 at 5 10 45 AM" src="https://github.com/user-attachments/assets/10efceaf-8a9a-4e3e-9a0d-48843839362c">
 
 Write validators in the `validators` folder, and supporting functions in the `lib` folder using `.ak` as a file extension.
 
