@@ -1,4 +1,5 @@
-# aiken-play-example
+# aiken-mint-validator
+<img width="1717" alt="Screenshot 2024-11-01 at 5 10 10 AM" src="https://github.com/user-attachments/assets/860ddc9a-c52e-4700-941f-62453877b3c1">
 <img width="1231" alt="Screenshot 2024-11-01 at 5 10 51 AM" src="https://github.com/user-attachments/assets/8615a075-1228-4e81-8278-db3ddf5bc632">
 <img width="767" alt="Screenshot 2024-11-01 at 5 10 45 AM" src="https://github.com/user-attachments/assets/10efceaf-8a9a-4e3e-9a0d-48843839362c">
 
