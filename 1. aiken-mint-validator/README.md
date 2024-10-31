@@ -23,7 +23,11 @@ aiken build
 [config.default]
 network_id = 41
 ```
+# fuzz install
+...
+aiken add aiken-lang/fuzz --version v2
 
+...
 Or, alternatively, write conditional environment modules under `env`.
 
 ## Testing
