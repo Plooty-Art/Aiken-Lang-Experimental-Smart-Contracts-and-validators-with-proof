@@ -1,6 +1,8 @@
-# mint-list-lock
+<img width="1709" alt="Screenshot 2024-11-01 at 5 05 31 AM" src="https://github.com/user-attachments/assets/5673c0bd-6991-49f3-bde4-82d0e00275e0"># mint-list-lock
+
 
 # install dependency
+<img width="1709" alt="Screenshot 2024-11-01 at 5 05 31 AM" src="https://github.com/user-attachments/assets/fb8f2c66-ff99-4582-8d60-2d50f3004b9b">
 aiken add aiken-lang/fuzz --version v2
 
 Write validators in the `validators` folder, and supporting functions in the `lib` folder using `.ak` as a file extension.
