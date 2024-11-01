@@ -1,4 +1,4 @@
-# Aiken-lang Experimental functions and smart contract development
+# Aiken-lang Experimental functions Validators and smart contract development
 
 for the versions issue some contract only run on old aikenversion
 
