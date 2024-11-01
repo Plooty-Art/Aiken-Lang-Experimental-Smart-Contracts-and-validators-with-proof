@@ -2,7 +2,13 @@
 # NFT_Minting Description
 
 
-This code provides a foundational structure for NFT minting and swapping in Aiken, with a sorting utility included. For a complete solution, you'd need to fill in the ownership verification logic in the `swap` function and implement the necessary error handling and transaction management according to your marketplace requirements. If you need more help with a specific aspect or further enhancements, feel free to ask!
+This code provides a foundational structure for NFT minting and swapping in Aiken, with a sorting utility included. For a complete solution, you'd need to fill in the ownership verification logic in the `swap` function and implement the necessary error handling and transaction management according to your marketplace requirements. If you need more help with a specific aspect or further enhancements.
+proof:
+
+
+<img width="1897" alt="Screenshot 2024-11-02 at 3 41 45 AM" src="https://github.com/user-attachments/assets/30938c9b-e12f-40dd-8252-59e0024c64f1">
+<img width="1304" alt="Screenshot 2024-11-02 at 3 38 04 AM" src="https://github.com/user-attachments/assets/2649b9dc-cbb0-4ead-8f70-801549567256">
+<img width="864" alt="Screenshot 2024-11-02 at 3 37 58 AM" src="https://github.com/user-attachments/assets/21684450-7764-42d8-acd3-2453cdc0be89">
 
 Write validators in the `validators` folder, and supporting functions in the `lib` folder using `.ak` as a file extension.
 
