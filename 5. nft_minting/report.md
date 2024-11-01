@@ -1,5 +1,5 @@
 # proof of build
-1. nft_minting fahimahamed$ aiken add aiken-lang/fuzz --version v2
+1. $ aiken add aiken-lang/fuzz --version v2
       Package aiken-lang/fuzz
         Added version → v2
 2. $ aiken build
