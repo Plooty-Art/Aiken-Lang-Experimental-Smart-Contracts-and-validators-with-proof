@@ -4,7 +4,10 @@ aiken stdlib 2.0
 proof:
 
 
-Write validators in the `validators` folder, and supporting functions in the `lib` folder using `.ak` as a file extension.
+Wr<img width="626" alt="Screenshot 2024-11-02 at 5 45 54 AM" src="https://github.com/user-attachments/assets/601ee194-0284-4965-8c7a-04cacaae8748">
+<img width="1078" alt="Screenshot 2024-11-02 at 5 45 19 AM" src="https://github.com/user-attachments/assets/f9df1538-baf9-4bd3-adcd-8017555e4358">
+<img width="1757" alt="Screenshot 2024-11-02 at 5 43 56 AM" src="https://github.com/user-attachments/assets/23a4545e-d7e4-4b33-81d1-71bd4dff9e55">
+ite validators in the `validators` folder, and supporting functions in the `lib` folder using `.ak` as a file extension.
 
 ```aiken
 validator my_first_validator {
